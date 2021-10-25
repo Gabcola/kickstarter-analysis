@@ -16,4 +16,5 @@ I don’t have challenges. I guess the possible difficulties would be the counti
 Second, pre summer time(May-June) would be the best time to hose theater event. 
 
 ### What can you conclude about the Outcomes based on Goals?
-* There is no correlation between goal and outcome. 
+* There may be the outlier in the goal of 30,000 to 40,000. Overall, the goal and percentage failed in the positive correlation, the larger the goal is, the more chance the outcome would failed. ![image](https://user-images.githubusercontent.com/90543647/138780434-629f05fe-acf4-49e3-a748-5fe3b7a7fc87.png)
+
