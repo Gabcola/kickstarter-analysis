@@ -41,5 +41,4 @@ Second, this dataset only considered money and outcome; however, in order to suc
 I would want to create a box and wisker chart to show the distribution of funding. I want to highlight the mean and outlier.
 
 
-
 ###### Thank you for taking time reviewing my analysis.:hibiscus:
